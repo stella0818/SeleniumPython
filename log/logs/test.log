@@ -1,0 +1,11 @@
+test
+2020-04-05 08:35:47,524 user_log.py <module> 10 DEBUG test
+2020-04-05 08:37:42,674 user_log.py------> <module>: 10 DEBUG-----> test
+2020-04-05 08:37:59,232 user_log.py------> <module> 10: DEBUG-----> test
+2020-04-05 08:55:43,517 user_log.py------> <module> 10: DEBUG-----> test
+2020-04-05 08:56:59,021 user_log.py------> <module> 10: DEBUG-----> test
+2020-04-05 08:58:18,782 user_log.py------> <module> 10: DEBUG-----> test
+2020-04-05 08:59:41,462 user_log.py------> <module> 10: DEBUG-----> test
+2020-04-05 09:00:59,520 user_log.py------> <module> 10: DEBUG-----> test
+2020-04-05 09:01:20,349 user_log.py------> <module> 10: DEBUG-----> test
+2020-04-05 09:03:12,686 user_log.py------> <module> 10: DEBUG-----> test
